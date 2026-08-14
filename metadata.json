@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIMPEG Digital PKSU",
+  "description": "Sistem Informasi Kepegawaian (SIMPEG) Puskesmas Kepulauan Seribu Utara - Manajemen SDMK, Diklat, Uraian Tugas, Penggajian, Dokumen, Analitik \u0026 Asisten AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
